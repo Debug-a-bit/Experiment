@@ -1,0 +1,25 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+
+.item{
+    text-align: center;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item-wrapper{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    border:2px dotted blue
+}
+.border-blue{
+    border:2px dotted blue !important;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
